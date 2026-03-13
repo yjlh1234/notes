@@ -1,0 +1,24 @@
+# 编译产物
+*.o
+*.out
+*.app
+*.dSYM/
+hello
+restir_cpu
+
+# 输出图像（可选）
+# *.ppm
+# *.png
+# *.jpg
+
+# 编辑器
+.DS_Store
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Xcode
+*.xcworkspace
+!*.xcodeproj/project.pbxproj
