@@ -5,6 +5,7 @@
 *.dSYM/
 hello
 restir_cpu
+restir_gi
 
 # 输出图像（可选）
 # *.ppm
